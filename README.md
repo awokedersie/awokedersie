@@ -12,8 +12,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=Web&logoColor=00E5FF)](https://YOUR_PORTFOLIO_LINK_HERE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awokedersie)
+[![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=Web&logoColor=00E5FF)](https://awoked-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awoke-dersie-3a2335422)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awokedersie@gmail.com)
 
 </div>
