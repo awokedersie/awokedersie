@@ -45,5 +45,5 @@ I am an Information Technology student and Full-Stack Developer passionate about
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awokedersie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=awokedersie&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
