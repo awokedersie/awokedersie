@@ -11,9 +11,11 @@
 </p>
 
 <div align="center">
-  <a href="https://awokedersie.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=Web&logoColor=00E5FF" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/awokedersie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:awokedersie@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=Web&logoColor=00E5FF)](https://YOUR_PORTFOLIO_LINK_HERE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awokedersie)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awokedersie@gmail.com)
+
 </div>
 
 <br>
